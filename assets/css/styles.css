@@ -119,6 +119,16 @@ main {
     color: #ffffff;
 }
 
+/* Gallery Page */
+#photos img {
+    width: 100%;
+}
+
+#photos {
+    line-height: 0;
+    line-height: 1em;
+}
+
 /* Footer */  
 #social-networks {
     text-align: center;
